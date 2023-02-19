@@ -1,3 +1,4 @@
+"use client"
 export default class Cliente{
     #id: string
     #nome: string
